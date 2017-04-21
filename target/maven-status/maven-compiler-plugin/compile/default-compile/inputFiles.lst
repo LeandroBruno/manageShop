@@ -1,0 +1,10 @@
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/controllers/ManageCatalogController.java
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/data/enums/ItemTags.java
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/handlers/TaxHandler.java
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/MvcConfiguration.java
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/data/input/InputRequest.java
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/data/output/OutputList.java
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/handlers/impl/TaxHandlerImpl.java
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/CatalogmanagementApplication.java
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/data/input/InputItem.java
+/Users/leandrofranciscobruno/manageShopList/src/main/java/com/javaunittest/data/output/OutputItem.java

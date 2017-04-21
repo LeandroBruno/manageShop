@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: catalogmanagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: leandrofranciscobruno
+Implementation-Vendor-Id: com.javaunittest
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/catalogmanag
+ ement/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
